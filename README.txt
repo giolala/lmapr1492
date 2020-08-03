@@ -1,5 +1,9 @@
 Physique des matériaux 
 # LMAPR1492 Project
 
-- download notebook : download file "symmetrized", format ".cif" from "https://materialsproject.org/materials/mp-1022/#"
--
+Analyse du matériau :  K2S (mp-1022)
+
+Sources : 
+  - The Material Project (https://materialsproject.org/materials/mp-1022/)
+  - Pymatgen (https://pymatgen.org)
+  - Jsmol GUI (https://www.pslc.ws/jsmol/jcse/explore.htm)
